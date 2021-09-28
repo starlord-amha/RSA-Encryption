@@ -67,7 +67,7 @@ class keys:
         return message
     @staticmethod
     def generatePrime():
-        prime=random.getrandbits(500)
+        prime=random.getrandbits(1024)
         if prime%2 == 0:
             prime+=1
         b=random.randint(2,prime-2)
