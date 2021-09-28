@@ -25,10 +25,10 @@ def gcd(a,b):
         return a
     else:
         return gcd(b,a%b)
-def publicKey(phi):
+def publicKey(n):
     e=random.randint(2,phi)
     while gcd(e,phi) != 1:
-        e-=2
+        e=random.randint(2,phi)
     return e
 def privateKey(phi,e,s0=1,s1=0,t0=0,t1=1):
     if phi % e == 0:
@@ -48,12 +48,17 @@ def getASCII(File):
         else:
             asciiFile.append(knownValues[x])
     return asciiFile
+def getTxtFromAscii(asciiFile):
+    message=""
+    for x in asciiFile:
+        message+=chr(x)
+    return message
 def generatePrime():
-    a=random.getrandbits(1024)
-    if a%2 == 0:
-        a+=1
-    b=random.randint(2,a-2)
-    while pow(b,a-1,a) != 1 :
-        a+=2
-        b=random.randint(2,a-2)
-    return a
+    prime=random.getrandbits(1024)
+    if prime%2 == 0:
+        prime+=1
+    b=random.randint(2,prime-2)
+    while pow(b,prime-1,prime) != 1 :
+        prime+=2
+        b=random.randint(2,prime-2)
+    return prime
