@@ -1,0 +1,117 @@
+This is a good article. Click here for more information.
+Python (programming language)
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+For other uses, see Python (disambiguation).
+Python
+Python logo and wordmark.svg
+Paradigm	Multi-paradigm: object-oriented,[1] procedural (imperative), functional, structured, reflective
+Designed by	Guido van Rossum
+Developer	Python Software Foundation
+First appeared	February 20, 1991; 30 years ago[2]
+Stable release	
+3.9.7[3] Edit this on Wikidata / 30 August 2021; 17 days ago
+Typing discipline	Duck, dynamic, strong typing;[4] gradual (since 3.5, but ignored in CPython)[5]
+OS	Windows, Linux/UNIX, macOS and more[6]
+License	Python Software Foundation License
+Filename extensions	.py, .pyi, .pyc, .pyd, .pyo (prior to 3.5),[7] .pyw, .pyz (since 3.5)[8]
+Website	www.python.org
+Major implementations
+CPython, PyPy, Stackless Python, MicroPython, CircuitPython, IronPython, Jython
+Dialects
+This is a good article. Click here for more information.
+Python (programming language)
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+For other uses, see Python (disambiguation).
+Python
+Python logo and wordmark.svg
+Paradigm	Multi-paradigm: object-oriented,[1] procedural (imperative), functional, structured, reflective
+Designed by	Guido van Rossum
+Developer	Python Software Foundation
+First appeared	February 20, 1991; 30 years ago[2]
+Stable release	
+3.9.7[3] Edit this on Wikidata / 30 August 2021; 17 days ago
+Typing discipline	Duck, dynamic, strong typing;[4] gradual (since 3.5, but ignored in CPython)[5]
+OS	Windows, Linux/UNIX, macOS and more[6]
+License	Python Software Foundation License
+Filename extensions	.py, .pyi, .pyc, .pyd, .pyo (prior to 3.5),[7] .pyw, .pyz (since 3.5)[8]
+Website	www.python.org
+Major implementations
+CPython, PyPy, Stackless Python, MicroPython, CircuitPython, IronPython, Jython
+Dialects
+This is a good article. Click here for more information.
+Python (programming language)
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+For other uses, see Python (disambiguation).
+Python
+Python logo and wordmark.svg
+Paradigm	Multi-paradigm: object-oriented,[1] procedural (imperative), functional, structured, reflective
+Designed by	Guido van Rossum
+Developer	Python Software Foundation
+First appeared	February 20, 1991; 30 years ago[2]
+Stable release	
+3.9.7[3] Edit this on Wikidata / 30 August 2021; 17 days ago
+Typing discipline	Duck, dynamic, strong typing;[4] gradual (since 3.5, but ignored in CPython)[5]
+OS	Windows, Linux/UNIX, macOS and more[6]
+License	Python Software Foundation License
+Filename extensions	.py, .pyi, .pyc, .pyd, .pyo (prior to 3.5),[7] .pyw, .pyz (since 3.5)[8]
+Website	www.python.org
+Major implementations
+CPython, PyPy, Stackless Python, MicroPython, CircuitPython, IronPython, Jython
+Dialects
+This is a good article. Click here for more information.
+Python (programming language)
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+For other uses, see Python (disambiguation).
+Python
+Python logo and wordmark.svg
+Paradigm	Multi-paradigm: object-oriented,[1] procedural (imperative), functional, structured, reflective
+Designed by	Guido van Rossum
+Developer	Python Software Foundation
+First appeared	February 20, 1991; 30 years ago[2]
+Stable release	
+3.9.7[3] Edit this on Wikidata / 30 August 2021; 17 days ago
+Typing discipline	Duck, dynamic, strong typing;[4] gradual (since 3.5, but ignored in CPython)[5]
+OS	Windows, Linux/UNIX, macOS and more[6]
+License	Python Software Foundation License
+Filename extensions	.py, .pyi, .pyc, .pyd, .pyo (prior to 3.5),[7] .pyw, .pyz (since 3.5)[8]
+Website	www.python.org
+Major implementations
+CPython, PyPy, Stackless Python, MicroPython, CircuitPython, IronPython, Jython
+Dialects
+This is a good article. Click here for more information.
+Python (programming language)
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+For other uses, see Python (disambiguation).
+Python
+Python logo and wordmark.svg
+Paradigm	Multi-paradigm: object-oriented,[1] procedural (imperative), functional, structured, reflective
+Designed by	Guido van Rossum
+Developer	Python Software Foundation
+First appeared	February 20, 1991; 30 years ago[2]
+Stable release	
+3.9.7[3] Edit this on Wikidata / 30 August 2021; 17 days ago
+Typing discipline	Duck, dynamic, strong typing;[4] gradual (since 3.5, but ignored in CPython)[5]
+OS	Windows, Linux/UNIX, macOS and more[6]
+License	Python Software Foundation License
+Filename extensions	.py, .pyi, .pyc, .pyd, .pyo (prior to 3.5),[7] .pyw, .pyz (since 3.5)[8]
+Website	www.python.org
+Major implementations
+CPython, PyPy, Stackless Python, MicroPython, CircuitPython, IronPython, Jython
+Dialects
+This is a good article. Click here for more information.
+Python (programming language)
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+For other uses, see Python (disambiguation).
+Python
+Python logo and wordmark.svg
+Paradigm	Multi-paradigm: object-oriented,[1] procedural (imperative), functional, structured, reflective
+Designed by	Guido van Rossum
+Developer	Python Software Foundation
+First appeared	February 20, 1991; 30 years ago[2]
+Stable release	
