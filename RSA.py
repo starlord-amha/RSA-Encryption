@@ -26,7 +26,7 @@ def gcd(a,b):
     else:
         return gcd(b,a%b)
 def publicKey(n):
-    e=random.randint(n-100,n)
+    e=random.randint(2,n)
     while gcd(e,n) != 1:
         e-=2
     return e
