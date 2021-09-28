@@ -28,7 +28,7 @@ class keys:
                 known[char]=msg
             else:
                 message.append(known[char])
-        return message
+        return keys.getTxtFromAscii(message)
     @staticmethod
     def gcd(a,b):
         if b == 0:
