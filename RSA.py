@@ -25,9 +25,9 @@ def gcd(a,b):
         return a
     else:
         return gcd(b,a%b)
-def publicKey(n):
-    e=random.randint(2,n)
-    while gcd(e,n) != 1:
+def publicKey(phi):
+    e=random.randint(2,phi)
+    while gcd(e,phi) != 1:
         e-=2
     return e
 def privateKey(phi,e,s0=1,s1=0,t0=0,t1=1):
@@ -49,7 +49,7 @@ def getASCII(File):
             asciiFile.append(knownValues[x])
     return asciiFile
 def generatePrime():
-    a=random.getrandbits(100)
+    a=random.getrandbits(1024)
     if a%2 == 0:
         a+=1
     b=random.randint(2,a-2)
