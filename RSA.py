@@ -5,7 +5,7 @@ class keys:
         self.q=keys.generatePrime()
         self.n=self.p*self.q
         self.phi=(self.p-1)*(self.q-1)
-        self.e=self.publicKey(self.phi)
+        self.e=self.publicKey()
         self.d=self.privateKey(self.phi,self.e)
     def Encrypt(self,message):
         known={}
